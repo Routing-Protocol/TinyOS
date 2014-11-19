@@ -5,4 +5,5 @@ Four nodes may be used to verify the working of this application. This is a tran
 This application moves on to the next count only if the acknolwedgement from the last transmission is received.
 
 11/18/2014 - Created of Acked1Toggled in TinyOS repository
+
            -  Moved TimerAcked, MessageReceiver and MessageSniffer in Acked1Toggled
