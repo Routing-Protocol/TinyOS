@@ -6,4 +6,4 @@ This application moves on to the next count only if the acknolwedgement from the
 
 11/18/2014 - Created of Acked1Toggled in TinyOS repository
 
-           -  Moved TimerAcked, MessageReceiver and MessageSniffer in Acked1Toggled
+             Moved TimerAcked, MessageReceiver and MessageSniffer in Acked1Toggled
