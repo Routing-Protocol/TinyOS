@@ -1,0 +1,2 @@
+COMPONENT=EvenOddAppC
+include $(MAKERULES)
