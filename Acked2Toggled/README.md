@@ -7,5 +7,6 @@ The expected result is the nodes named 3 and 4 receive a count periodically togg
 This application tries to retransmit a packet 8 times before moving on to the next count.
 
 11/18/2014 - Created Acked2Toggled folder in TinyOS repository
+             
              Moved applications ACKedTransmit, MessageReceiver and MessageSniffer in Acked2Toggled
              
