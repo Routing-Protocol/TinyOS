@@ -1,0 +1,2 @@
+COMPONENT=ToggledReceiveAppC
+include $(MAKERULES)
